@@ -1,7 +1,7 @@
-This project was developed during the technoserve training conducted during the final year of Engineering by Technoserve, Which was a CSR fund of Capgemini.
+This project was developed during the technoserve training conducted during the final year of Engineering by Technoserve, which was a CSR fund of Capgemini.
 
 **Goals**
-1. To learn Hibernate framework in Java.
+1. To learn the Hibernate framework in Java.
 2. To learn Object-Relational Mapping(ORM) in Hibernate Java
 
 **Tech Stack**
